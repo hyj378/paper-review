@@ -8,7 +8,7 @@
 - 세종대학교 지능기전공학부 황유진 [(who is me?)](https://github.com/hyj378)
 
 ### 사용법
-논문의 review log는 [project](https://github.com/users/hyj378/projects/1/views/1)에서 확인할 수 있습니다.
+논문의 리딩 스케줄은 [project](https://github.com/users/hyj378/projects/1/views/1)에서 확인할 수 있습니다.
 각 논문에 대한 짧은 review도 있으니 참고해주세요. 😃
 
 ### Issue 작성 요령

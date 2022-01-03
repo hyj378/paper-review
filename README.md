@@ -1,6 +1,6 @@
 # paper-review
 
-해당 repositorie는 **Active Learning**, **Semi-supervised Learning** 분야의 논문을 리뷰하기 위한 페이지 입니다.
+해당 repository는 **Active Learning**, **Semi-supervised Learning** 분야의 논문을 리뷰하기 위한 페이지 입니다.
 
 ### Team
 

@@ -4,8 +4,8 @@
 
 ### Team
 
-- 세종대학교 지능기전공학부 홍주영 [github](https://github.com/liv0vil)
-- 세종대학교 지능기전공학부 황유진 [github](https://github.com/hyj378)
+- 세종대학교 지능기전공학부 홍주영 [(who is me?)](https://github.com/liv0vil)
+- 세종대학교 지능기전공학부 황유진 [(who is me?)](https://github.com/hyj378)
 
 ### 사용법
 논문의 review log는 [project](https://github.com/users/hyj378/projects/1/views/1)에서 확인할 수 있습니다.
